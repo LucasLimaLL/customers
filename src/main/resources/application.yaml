@@ -1,0 +1,12 @@
+feign:
+  okhttp:
+    enabled: true
+
+application:
+  customer:
+    register:
+      url: https://bling.com.br/Api/v2
+      token: 20f4ac5e9a4422542cb12adad79549d00737e17e2d58f03a6d28c348572cb14922a24c30
+    search:
+      url: https://www.receitaws.com.br/v1
+      token: acb3b40dfbd615b43c53d610cd20b9dea0659932d0bee0ca2825617443b67ba7
